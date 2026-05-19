@@ -123,7 +123,7 @@ phishing-email-detector/
 │   ├── graph_output.png
 │   └── folder_structure.png
 │
-├── phishing_detector.py
+├── main.py
 ├── requirements.txt
 └── README.md
 ```
@@ -155,7 +155,7 @@ pip install pandas scikit-learn numpy matplotlib seaborn
 ## Run the Project
 
 ```bash
-python phishing_detector.py
+python main.py
 ```
 
 ---
@@ -270,4 +270,5 @@ This project successfully demonstrates how Machine Learning and NLP techniques c
 ---
 
 ## Author
-Hansika Allamsetty
+keerthi chandika
+
